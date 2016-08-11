@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- pressed -->
+    <item android:state_pressed="true">
+        <color android:color="#88ffffff" />
+    </item>
+    <!-- released -->
+    <item android:state_pressed="false">
+        <color android:color="#00000000" />
+    </item>
+</selector><!-- From: file:/C:/Users/k0j1/AndroidStudioProjects/YamatoCreation/app/src/main/res/drawable-xxhdpi/bk_abs_btn.xml -->

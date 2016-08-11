@@ -1,0 +1,8 @@
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="200"
+    android:fillAfter="false"
+    android:fromXDelta="0"
+    android:fromYDelta="0"
+    android:toXDelta="0"
+    android:toYDelta="20%p" /><!-- From: file:/C:/Users/k0j1/AndroidStudioProjects/YamatoCreation/app/src/main/res/anim/out_animation.xml -->

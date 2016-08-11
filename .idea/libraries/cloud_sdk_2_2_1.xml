@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cloud-sdk-2.2.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kii/cloud-sdk/2.2.1/library/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kii/cloud-sdk/2.2.1/library/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kii/cloud-sdk/2.2.1/library/jars/libs/photocolle-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

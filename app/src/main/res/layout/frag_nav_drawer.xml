@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="240dp"
+                android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/nav_logo"
+        android:layout_width="240dp"
+        android:layout_height="180dp"
+        android:src="@drawable/logo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ListView
+              android:id="@+id/nav_list"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:choiceMode="singleChoice"
+              android:divider="@drawable/divide"
+              android:dividerHeight="1dp"
+              android:showDividers="middle"
+              android:background="#000"
+              android:layout_below="@+id/nav_logo"/>
+
+</RelativeLayout>
+

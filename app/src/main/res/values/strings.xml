@@ -1,0 +1,21 @@
+<resources>
+	<string name="app_name">YamatoCreation</string>
+
+	<string name="NAV_TITLE_SHARE">共有</string>
+	<string name="NAV_TITLE_ABOUT">About</string>
+	<string name="NAV_TITLE_FINISH">終了</string>
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+
+	<string name="action_example">Example action</string>
+	<string name="action_settings">Settings</string>
+
+	<string name="WEB_GO_SITE">WEBサイトへ</string>
+
+	<string name="register_gcm">Register GCM</string>
+	<string name="install">Install</string>
+	<string name="uninstall">Uninstall</string>
+	<string name="unregister_gcm">Unregister GCM</string>
+
+</resources>

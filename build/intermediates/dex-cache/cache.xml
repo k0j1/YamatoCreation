@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\k0j1\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-apache\2.3.0\f7e3311a6a82377e270bf327fed8dd5c95dd439\okhttp-apache-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f7e3311a6a82377e270bf327fed8dd5c95dd439">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\okhttp-apache-2.3.0-22240b726b6638a54c8f158ddb84888e544ddf89.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-d2ce511e1f6897318dcc6211811b0f1650afd04b.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-ab067644a86cdd65f8010a511e8142a55adc3617.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-3b487bc723fcee4e002061cfa1ce79a476f9cbf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.kii\cloud-sdk\2.2.1\library\jars\libs\photocolle-sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="84b63c9e26ff9db1a6223a92a2bb3fbce3775d8f">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\photocolle-sdk-58062e78f325b8b097464aa1c437869395d76e12.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-baf556bd8d8f0dc45011afbf3565b714740f2824.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-432b5756ce0f214f77d98b34bce6ae9ecffe9398.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-516fdeeb9eff7fb6df93ef3e08d14d55e5ceaada.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-5849116b48c4f89b2270475cb623f8bf885d4e2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.kii\cloud-sdk\2.2.1\library\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f7d432f6801bd785bec509039b27e27131636802">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-c64280a3ffc3c61a68496ad37bb4ae843ec26f87.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-6022e4318baadc00f491619d84bbb958509cdd08.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-4fb4ef8ff8082f0c83f429c4d19df05dea56db96.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-417c1d37d3e06a5140f45b767f77c102c1d2600e.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-6fe4b695d02f88fc37eca41933c0c0988de69957.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-28bfb124130d6a383232d5d103ebb274b14b0ab4.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-203cb0b21506a968d99c26cdcd175005be62b401.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-af5988ca792cd727c25dcd76cd9135c0ee6fc86e.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\okio-1.3.0-d816b8bada0280295386f3aa6adf2394f67cd059.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-681f2c7e85e63a486a72203b3eb0a34128a9b576.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-b72f8bf5a35f2b9903025ef11e76c77f2c947da5.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-18fad27f611bdb75908b04f414c74f980a548170.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-54e4cbf686c9e5adaffecea3f484dc4acddb219f.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-539fb0a37182f2b1f08e27b42f68158bd2e26866.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-912f9508d41408d6ba0c5402c9400fa86b33ef5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-f926ef69e97ee56174719e6b80d17d1da9d85d99.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-a228c73dd94649828b08879b1ab2c0df717340ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\okhttp-2.3.0-089a51e6853acd53177f69e41bc132bfa92c3899.jar" />
+    </item>
+    <item
+        jar="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\k0j1\AndroidStudioProjects\YamatoCreation\app\build\intermediates\pre-dexed\release\classes-660a5931ae44b40b1eed715966ec6a7911f37d90.jar" />
+    </item>
+
+</items>
